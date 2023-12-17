@@ -25,9 +25,8 @@ Motivated and self-driven, I thrive in a team environment. My organizational and
  <br />
 
 <div>
-    <img style="border: 0px solid; height: 300px; width: 100%; overflow: hidden; object-fit: cover;" src="src/main.jpg">
+    <img style="height: 100%; width: 100%;" src="src/main.jpg">
 </div>
-<!-- overflow="scroll -->
 
  <br />
 
