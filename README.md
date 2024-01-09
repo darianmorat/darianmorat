@@ -1,34 +1,20 @@
-# ✨ Darian Toledo ✨
+# Hey there! 👋
 
 `Astronomy` `Science` `Technology` `Music` `Traveling`
 
-Motivated and self-driven, I thrive in a team environment. My organizational and interpersonal skills define my professional approach. Actively seeking opportunities to expand my skills, I approach extra responsibilities with enthusiasm, fully committed to professional growth and achieving my set goals.
+I'm Darian, a full-stack developer with a passion for mobile and machine learning. Being able to support the next generation and progress are things that capture my attention. I work on random assignments in my free time and enjoy new, innovative, and difficult assignments!
 
-##
+---
 
 ### ✅ Language tools
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="35" style="padding-right:5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="35"  style="padding-right:5px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35" style="padding-right:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35" style="padding-right:8px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35" style="padding-right:8px;"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35" style="padding-right:8px;"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35" style="padding-right:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35" style="padding-right:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="35" style="padding-right:8px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="35" height="35" style="padding-right:8px;"/>
-<!-- MORE -->
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,js,react,typescript,git,vscode,neovim)](https://skillicons.dev)
 
- <br />
+<!-- Mobile & Machine Learning FUTURE -->
 
 <div>
-    <img style="height: 100%; width: 100%;" src="src/main.jpg">
+    <img style="height: 100%; width: 100%;" src="src/main.png">
 </div>
-
- <br />
 
 ### ✅ My GitHub Statistics
 
