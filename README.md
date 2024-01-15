@@ -6,9 +6,9 @@ I'm Darian, a full-stack developer with a passion for mobile and machine learnin
 
 ---
 
-### ✅ Language tools
+### ✅ Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,js,react,typescript,git,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,js,nodejs,react,typescript,py,git,vscode,neovim)](https://skillicons.dev)
 
 <!-- Mobile & Machine Learning FUTURE -->
 
@@ -16,10 +16,10 @@ I'm Darian, a full-stack developer with a passion for mobile and machine learnin
     <img style="height: 100%; width: 100%;" src="src/main.png">
 </div>
 
-### ✅ My GitHub Statistics
+### ✅ My GitHub Stats
 
 <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darianmorat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
 
-### ✅ My Programming Languages
+### ✅ Most Used Languages
 
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darianmorat&layout=compact&langs_count=8&theme=dracula&hide_title=true"/>
