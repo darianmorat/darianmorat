@@ -2,13 +2,13 @@
 
 `Astronomy` `Science` `Technology` `Music` `Traveling`
 
-I'm Darian, a full-stack developer with a passion for mobile and machine learning. Being able to support the next generation and progress are things that capture my attention. I work on random assignments in my free time and enjoy new, innovative, and difficult assignments!
+I'm Darian, a full-stack developer with a passion for mobile development and machine learning. Being able to support the next generation and progress are things that capture my attention. I work on random assignments in my free time and enjoy new, innovative, and difficult assignments!
 
 ---
 
 ### ✅ Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,sass,js,nodejs,react,typescript,py,git,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,py,git,vscode,neovim)](https://skillicons.dev)
 
 <!-- Mobile & Machine Learning FUTURE -->
 
