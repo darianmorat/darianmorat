@@ -8,7 +8,7 @@ I'm Darian, a full-stack developer with a passion for mobile development and mac
 
 ### ✅ Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,py,git,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,nodejs,react,typescript,py,git,vscode,neovim)](https://skillicons.dev)
 
 <!-- Mobile & Machine Learning FUTURE -->
 
