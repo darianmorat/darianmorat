@@ -1,25 +1,17 @@
-# Hey there! 👋
+### Hey there! 👋
 
-<!-- `Astronomy` `Science` `Technology` `Music` `Traveling` -->
+#### I'm a Full-Stack Developer currently learning React Native. 
 
-I'm Darian, a full-stack developer with a passion for mobile development and machine learning. Being able to support the next generation and progress are things that capture my attention. I work on random assignments in my free time and enjoy new, innovative, and difficult assignments!
+Currently pursuing a Technologist Degree at [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx)<br>
+Reach out to me: dariantoledo01@gmail.com
 
----
+- ⚙️ Technology Stack: `javascript`, `css`, `html`, `nodejs`, `react`, `typescript`, `python`
+- 🔨 Tools: `vim`, `vscode`, `git`, `figma`
+- 💻 I've been coding professionaly for over +1year 
+- ✨ I am fascinated for Astronomy & science 
 
-### ✅ Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma,js,nodejs,react,typescript,py,git,vscode,neovim)](https://skillicons.dev)
-
-<!-- Mobile & Machine Learning FUTURE -->
-
-<div>
-    <img style="height: 100%; width: 100%;" src="src/main.png">
-</div>
-
-### ✅ My GitHub Stats
+#### ✅ My GitHub Stats
 
 <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darianmorat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
 
-### ✅ Most Used Languages
-
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=darianmorat&layout=compact&langs_count=8&theme=dracula&hide_title=true"/>
