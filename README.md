@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-#### I'm a Full-Stack Developer, in the process of learning React Native. 
+#### I'm a Full-Stack Developer, in the process of learning React Native
 
 Currently pursuing a Technologist Degree at [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx)<br>
 Reach out to me: dariantoledo01@gmail.com
@@ -11,7 +11,7 @@ Reach out to me: dariantoledo01@gmail.com
 - ✨ I am fascinated for Astronomy & science 
 
 
-#### ✅ My GitHub Stats
+#### My GitHub Stats:
 
 <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=darianmorat&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_title=true"/>
 
