@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-#### I'm a Software Engineer / Full Stack Developer
+#### I'm a Software Engineer - Full Stack
 
 Currently pursuing a Technologist Degree at [SENA Institution](https://www.sena.edu.co/es-co/Paginas/default.aspx)<br>
 Reach out to me: dariantoledo01@gmail.com
