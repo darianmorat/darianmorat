@@ -7,7 +7,7 @@ Reach out: dariantoledo01@gmail.com
 
 #### Technologies:
 - Languages: `javascript`
-- Frameworks: `react`, `nodejs`, `express`
+- Frameworks: `react`, `node`, `express`
 - Databases: `postgresql`
 - Editors: `neovim`, `vscode`
 - Tools: `git`, `wsl2`, `terminal`
