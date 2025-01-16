@@ -6,9 +6,9 @@ Currently pursuing a Technologist Degree at [SENA Institution](https://www.sena.
 Reach out: dariantoledo01@gmail.com
 
 #### Technologies:
-- Languages: `javascript`
+- Languages: `javascript`, `typescript`
 - Frameworks: `react`, `node`, `express`
-- Databases: `postgresql`
+- Databases: `postgresql`, `mongodb`
 - Editors: `neovim`, `vscode`
 - Tools: `git`, `wsl2`, `terminal`
 
