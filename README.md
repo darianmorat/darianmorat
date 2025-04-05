@@ -7,7 +7,7 @@ Reach out: dariantoledo01@gmail.com
 
 #### Technologies:
 
-- Programming: `JavaScript` `TypeScript` `React` `HTML/CSS` `Node/Express`
+- Programming: `JavaScript` `React` `Python` `HTML/CSS` `Node/Express`
 - Database & Cloud: `PostgreSQL` `MongoDB` `AWS` `Firebase`
 - Tools: `Git` `GitHub` `Postman` `Neovim/VIM` `Terminal` `WSL2` `Linux`
 - Languages: `English-Advanced` `Spanish-Native` `Japanese-Beginner`
