@@ -1,2 +1,2 @@
 Astronomy - Science ✧⁠*⁠。  
-Technology - Engineering ⋆˚࿔
+Technology - Engineering ✩˚࿔   
