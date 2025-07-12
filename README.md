@@ -1,2 +1,2 @@
-Ikigai ㆍ 生き甲斐    
-Kaizen › 改善
+Ikigaiㆍ生き甲斐    
+Kaizenㆍ改善
